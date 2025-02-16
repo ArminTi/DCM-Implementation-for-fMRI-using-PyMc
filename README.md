@@ -12,6 +12,12 @@ On the other hand, previous attempts to optimize parameters for neural mass mode
 Meanwhile, PyMC is a powerful probabilistic programming package that implements HMC using a No-U-Turn Sampler (NUTS; Hoffman, 2014). 
 
 
+### Method
+
+I will build a simple model with 2 nodes and 2 layers, I wrote ODE functions, iterate with Pytensor. Then, I will add noise to the observation designing priors (priors are not implemented for 2 layer).
+
+![Picture3](https://github.com/user-attachments/assets/981c1b5c-972c-423b-aebf-91c0aa1573c0)
+
 
 ### Conclusion
 
