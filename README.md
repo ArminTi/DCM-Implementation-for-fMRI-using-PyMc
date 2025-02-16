@@ -16,7 +16,8 @@ Meanwhile, PyMC is a powerful probabilistic programming package that implements 
 
 I will build a simple model with 2 nodes and 2 layers, I wrote ODE functions, iterate with Pytensor. Then, I will add noise to the observation designing priors (priors are not implemented for 2 layer).
 
-![Picture3](https://github.com/user-attachments/assets/981c1b5c-972c-423b-aebf-91c0aa1573c0)
+![Picture2](https://github.com/user-attachments/assets/d2862da7-e19b-4797-a469-5a43378db0af)
+
 
 
 ### Conclusion
