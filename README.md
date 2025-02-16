@@ -1,7 +1,7 @@
 
 ## Background and Motivations
 
-### Motivation for Layer fMRI
+### Motivation for DCM in Layer fMRI
 
 
 Dynamic Causal Modelling (DCM) is a hypothesis-testing framework for specifying models of effective connectivity among brain regions (Friston et al., 2003; Zeidman et al., 2019). Its application in fMRI has been widely used among cognitive and clinical neuroscience researchers to foster circuit-based understanding of mental constructs. Nowadays, advancements in high-resolution fMRI open new avenues for studying layered cortical circuits. Additionally, enhancing conventional DCM to capture layer-specific fMRI could become a compelling idea to testing layer-specific connections that support cognitive functions proposed by Predictive Coding theories. Notably, Heinzle et al., 2016 proposed extending traditional balloon models to include the effects of blood draining while working with layer fMRI.
