@@ -14,7 +14,7 @@ Meanwhile, PyMC is a powerful probabilistic programming package that implements 
 
 ### Method
 
-I will build a simple model with 2 nodes and 2 layers, I wrote ODE functions, iterate with Pytensor. Then, I will add noise to the observation designing priors.
+I will build a simple model with 2 nodes and 2 layers, I wrote ODE functions, iterate with Pytensor. Then, I will add noise to the observation, designing priors, and fitting with PyMC (Nuts with Blackjax, and pymc method).
 ![Picture2](https://github.com/user-attachments/assets/d2862da7-e19b-4797-a469-5a43378db0af)
 
 
